@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+    overflow-x: hidden;
+    font-family: 'Roboto Slab', serif;
+    background-color: #ffffff;
+}
+
+select {
+    border: 0px;
+    background-color: #fff;
+
+    cursor: pointer;
+    width: 100%;
+}
